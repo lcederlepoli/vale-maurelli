@@ -195,4 +195,3 @@ class FleishmanGenerator:
         if size == 1:
             return sample[0]
         return sample
-     
